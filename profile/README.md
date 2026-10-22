@@ -15,6 +15,6 @@ A workspace for content marketing. Discover standout content, create for your pr
 
 ---
 
-[Website](https://distill-corp.vercel.app) · [Contact](mailto:contact@distillcorp.com)
+[Website](https://distillcorp.com) · [Contact](mailto:contact@distillcorp.com)
 
 <sub>복잡한 일을 간단하게 만드는 AI 제품을 만듭니다.</sub>
